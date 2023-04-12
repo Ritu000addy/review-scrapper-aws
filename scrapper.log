@@ -1,0 +1,115 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.7:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [06/Apr/2023 22:36:00] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.10:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [07/Apr/2023 00:08:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [07/Apr/2023 00:08:22] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:root:name 'product_html' is not defined
+INFO:werkzeug:172.18.0.2 - - [07/Apr/2023 00:08:29] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.10:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [07/Apr/2023 00:12:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [07/Apr/2023 00:12:51] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:root:name 'product_html' is not defined
+INFO:werkzeug:172.18.0.2 - - [07/Apr/2023 00:12:57] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.14:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [12/Apr/2023 19:34:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [12/Apr/2023 19:34:44] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [12/Apr/2023 19:34:44] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [12/Apr/2023 19:34:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name 'product_html' is not defined
+INFO:werkzeug:172.18.0.2 - - [12/Apr/2023 19:34:49] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.14:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:name 'searchstring' is not defined
+INFO:werkzeug:172.18.0.2 - - [12/Apr/2023 19:39:30] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.14:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:No name
+INFO:root:No rating
+INFO:root:No comment heading
+INFO:root:name 'searchstring' is not defined
+INFO:werkzeug:172.18.0.2 - - [12/Apr/2023 19:41:23] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.14:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:name 'searchstring' is not defined
+INFO:werkzeug:172.18.0.2 - - [12/Apr/2023 19:43:34] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.14:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-341-949
+INFO:werkzeug:172.18.0.2 - - [12/Apr/2023 19:45:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [12/Apr/2023 19:45:55] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [12/Apr/2023 19:45:55] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [12/Apr/2023 19:45:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:local variable 'custComment' referenced before assignment
+INFO:werkzeug:172.18.0.2 - - [12/Apr/2023 19:46:00] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.14:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-341-949
+INFO:root:local variable 'custComment' referenced before assignment
+INFO:werkzeug:172.18.0.2 - - [12/Apr/2023 19:51:14] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-341-949
+INFO:werkzeug: * Detected change in '/config/workspace/application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.14:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [12/Apr/2023 19:55:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [12/Apr/2023 19:55:10] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [12/Apr/2023 19:55:10] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:root:local variable 'custComment' referenced before assignment
+INFO:werkzeug:172.18.0.2 - - [12/Apr/2023 19:55:26] "POST /review HTTP/1.1" 200 -
+INFO:root:local variable 'custComment' referenced before assignment
+INFO:werkzeug:172.18.0.2 - - [12/Apr/2023 19:55:33] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:172.18.0.2 - - [12/Apr/2023 20:01:29] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:172.18.0.2 - - [12/Apr/2023 20:01:29] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [12/Apr/2023 20:01:29] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:root:local variable 'custComment' referenced before assignment
+INFO:werkzeug:172.18.0.2 - - [12/Apr/2023 20:01:37] "[37mPOST /review HTTP/1.1[0m" 200 -
